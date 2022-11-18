@@ -1,4 +1,4 @@
-// CMIS 141 Taiga Tanaka Week3 discussion "Booleans and conditions"
+//pf_tiger "Booleans and conditions"
 // Requirement:
 /* Write a Java program which contains a WHILE loop. 
 Prompt user for input which determines the number of times the loop repeats.
@@ -19,7 +19,7 @@ public class wk4loops {
         Scanner input = new Scanner(System.in);
 
         // Indicate that the program has starteed
-        System.out.println("----------------------CMIS folder maker----------------------");
+        System.out.println("----------------------folder maker----------------------");
         System.out.println("CAUTION: This program may delete a directory in your computer");
 
         // Get the current directory
