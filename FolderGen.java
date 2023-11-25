@@ -13,7 +13,7 @@ import java.util.Scanner;
 import java.io.File; // File class 
 
 // main class
-public class wk4loops {
+public class FolderGen {
     public static void main (String[] args) {
         // Initiate the scanner
         Scanner input = new Scanner(System.in);
